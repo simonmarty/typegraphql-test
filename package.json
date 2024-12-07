@@ -11,13 +11,13 @@
     "start-prod": "node ./build/app.js"
   },
   "dependencies": {
-    "apollo-server": "^2.18.2",
-    "class-validator": "^0.12.2",
+    "apollo-server": "^3.13.0",
+    "class-validator": "^0.14.0",
     "reflect-metadata": "^0.1.13",
-    "sqlite3": "^5.0.0",
+    "sqlite3": "^5.1.5",
     "type-graphql": "^1.1.0",
     "typedi": "^0.8.0",
-    "typeorm": "^0.2.28",
+    "typeorm": "^0.3.0",
     "typeorm-typedi-extensions": "^0.2.3"
   },
   "devDependencies": {
